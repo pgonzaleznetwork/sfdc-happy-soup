@@ -42,7 +42,7 @@
     "eslint": "^7.7.0",
     "nodemon": "^2.0.4",
     "parallelshell": "3.0.2",
-    "semantic-release": "^17.1.1",
+    "semantic-release": "^17.2.3",
     "semantic-release-cli": "^5.4.0"
   },
   "repository": {
